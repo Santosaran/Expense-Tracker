@@ -4,7 +4,7 @@ const balance = document.getElementById(
 ); 
 const money_plus = document.getElementById(
   "money-plus"
-);
+); 
 const money_minus = document.getElementById(
   "money-minus"
 );
